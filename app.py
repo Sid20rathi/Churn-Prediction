@@ -13,7 +13,7 @@ with open('Scaler.pkl','rb') as file:
     Scaler = pickle.load(file)
 
 
-with open('Label_encoder_gender.pkl','rb') as file:
+with open('label_encoder_gender.pkl','rb') as file:
     Label_encoder_gender = pickle.load(file)
 
 
