@@ -1,3 +1,4 @@
+setuptools
 absl-py==2.1.0
 altair==5.4.1
 appnope==0.1.4
